@@ -1,2 +1,5 @@
 # search-with-stochastic-aging
 a random search model where workers face a death rate that is increasing in their health status
+
+## results
+![img](https://github.com/jren-jane/labor-search-with-stochastic-aging/blob/edb1c665dcb178548446316bbd72d0d2819b4c3f/graph.jpg)
